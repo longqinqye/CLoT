@@ -1,7 +1,12 @@
 2024.04.12
+
+初次使用：
+git clone url
+
 每次使用前：
-1. git push -https://github.com/longqinqye/CLoT.git main
+git pull
+
 使用后：
-1. git add .
-2. git commit -m "提交说明"
-2. git push -u orign main
+git add .
+git commit -m "提交说明"
+git push -u origin main
