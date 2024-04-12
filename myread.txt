@@ -1,12 +1,12 @@
 2024.04.12
 
 初次使用：
-git clone url
+git clone [url]
 
 每次使用前：
 git pull
 
-使用后：
+每次使用后：
 git add .
 git commit -m "提交说明"
 git push -u origin main
