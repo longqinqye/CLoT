@@ -1,0 +1,7 @@
+2024.04.12
+每次使用前：
+1. git push -https://github.com/longqinqye/CLoT.git main
+使用后：
+1. git add .
+2. git commit -m "提交说明"
+2. git push -u orign main
